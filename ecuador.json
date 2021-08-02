@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "61062002612091b4c4447e2a"
+  },
+  "noticia": "Así está el medallero de España"
+},{
+  "_id": {
+    "$oid": "61062002612091b4c4447e2b"
+  },
+  "noticia": "Juegos Olímpicos de Tokio 2020, jornada 8 en directo"
+},{
+  "_id": {
+    "$oid": "61062002612091b4c4447e2c"
+  },
+  "noticia": "NATALIA SE QUEDA FUERA DE LA FINAL CON UNA BUENA MARCA"
+},{
+  "_id": {
+    "$oid": "61062002612091b4c4447e2d"
+  },
+  "noticia": "ATLETISMO. TURNO PARA NATALIA ROMERO EN LA SEMI DEL 800"
+},{
+  "_id": {
+    "$oid": "61062002612091b4c4447e2e"
+  },
+  "noticia": "BALONMANO. DERROTA DE LAS GUERRERAS ANTE HUNGRÍA"
+}]
